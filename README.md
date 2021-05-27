@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Geovanny Gualotuña
 - 👀 I’m interested in learning Desarrollo Web
-- 🌱 I’m currently learning JavaScrip
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on proyects to code open, so i can practice
 - 📫 How to reach me WhatsApp +593 9921 39854 
 
